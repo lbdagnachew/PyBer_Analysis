@@ -5,6 +5,8 @@ The purpose of this project is to analyze and visualize PyBer 2019 ride-sharing 
 
 ### Resources: 
 Software: Python 3.9.7, Anaconda 4.10.3, Jupyter Notebook 6.4.5 
+
+
 Data Source: city_data.csv, ride_data.csv
 
 #### Results: 
@@ -14,6 +16,8 @@ Total Weekly Fares by Cirty Type:
 ![Total_Fare_by_City_Type](https://user-images.githubusercontent.com/101952961/184518659-486be4f8-eb1a-4e6d-bcd6-6c353012a097.PNG)
 
 The graph above shows the weekly fares of each city types from January 1, 2019 through April 29, 2019. Fares in Urban cities hovered between $1,500 - $2,500, with resistance at $2,500. Suburban city fares were between $500 - $1,500. Lastly, Rural city fares remained between $0 - $500.
+
+
 
 ![Results](https://user-images.githubusercontent.com/101952961/184518633-f10d712b-ee21-49b6-a681-86ec8b399004.PNG)
 
